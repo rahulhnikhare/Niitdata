@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Workspace/cgi-capstone" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Workspace/javamicroservice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Workspace/javarepository" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Workspace/javaspringboot" vcs="Git" />
   </component>
 </project>
