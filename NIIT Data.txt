@@ -1,0 +1,101 @@
+Git Cred:
+rahul.hnikhare@gmail/ ZAQ!2wsx
+
+
+Unset System Creds: git config --global credential.helper cache
+
+
+git config --global user.name "your_email"
+git config --global user.password "your_password"
+
+===============================
+$ git push -d <remote_name> <branch_name>
+$ git branch -d <branch_name>
+
+To rename a Git branch : git branch -m <old> <new>
+
+Local Branch : git branch -d local_branch
+
+Remote Branch : git push origin --delete remote_branch
+
+Save Credentails: git config --global credential.helper store
+
+--------------------------------------------------------
+ORACLE userename: jeecgi@gmail.com
+password: ZAQ!2wsx
+
+-----------------------------
+Goto Meeting:
+SRO-BLR-S10@stackroute.in
+August@#321
+
+--------------------------
+mvn clean install spring-boot:run
+
+
+---------------------------------------
+spring.datasource.url=jdbc:mysql://localhost:3306/cgidb?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC
+
+
+-------------------
+netstat -aon | find /i "listening"
+WIndows Kill Command: taskkill /pid <PID> /f
+
+--------------------------
+
+ 
+   keytool -import -trustcacerts -keystore <cacerts_Path> 
+   -storepass changeit -noprompt -alias mycert -file <.crt file path>
+
+
+--------------------------------------------
+
+GI Access Token:  
+Jenkins-Gitlab_API-access  :  78QsyqRLbYNsyGSSxzPq
+--------------------------------
+C:\Users\Rahul\.ssh
+
+------------------------------------
+
+SSH:
+ssh-keygen -t rsa -b 2048 -C "rahul.hnikhare@gmail.com"
+
+rahul.hnikhare@gmail.com
+
+-------------------------------------
+If ref Locked: 
+git remote prune origin
+
+--------------------------
+C:\Windows\System32\drivers\etc\
+--------------
+Dokcer Access on VM Lab:
+sudo setfacl --modify user:$USER:rw /var/run/docker.sock
+
+--------------------------------
+
+SELECT * FROM information_schema.tables WHERE table_name='participants';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitLab URL: https://gitlab-cgi.stackroute.in/cgi_jee_batch/demotest
+Username: rahul.hnikhare@gmail.com
+password: ZAQ!2wsx

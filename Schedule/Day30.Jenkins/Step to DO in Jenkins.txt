@@ -1,0 +1,26 @@
+git plugin
+gitlab
+gitlab API
+git 
+credential Plugins
+
+2. Add  public access ton in gitlab.
+
+credentiola->syste->global cred-> add cred
+
+1. git lab apitoken -> pased api token
+
+ 
+3. Config gitlad in  jenkin server
+
+manage-jenkin->config sys-> move till gitlab 
+name: git lba connection
+gitlab url
+select creds-> api token
+check connection
+
+4. SSH KEy Authentication: For comit/push/pull
+
+Add ssh key to GitLba
+
+Goto to jenkin-> add creds->
